@@ -15,6 +15,7 @@ a = artist
 artist.move_forward(100)
 # TODO replace this line with code to make the artist turn right
 # TODO replace this line with code make the artist move forward
-
+a.right()
+a.forward(100)
 artist.check()
 
